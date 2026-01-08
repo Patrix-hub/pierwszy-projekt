@@ -9,3 +9,4 @@ elif temp[-1].upper() == "F":
     print("%.0f F po przeliczeniu to %.0f C" %(f,c))
 else :
     print("Nieprawidłowy zapis")
+    print (Jarek Pasha Runda Nasza)
